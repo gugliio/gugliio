@@ -10,7 +10,7 @@ Looking for professional challenges that leads to personal growth.
 
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=go,js,html,css,vscode,git,github,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,js,html,css,vscode,mysql,git,github,aws,gherkin)](https://skillicons.dev)
 
   
 ## Github stats    
