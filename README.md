@@ -1,4 +1,4 @@
-## Hi, I'm Ariel Guglielmetti 👋
+## Hi, I'm Ariel 👋
 
 ### About Me
 
